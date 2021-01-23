@@ -1,4 +1,8 @@
-### Olá! Seja Bem vindo ao meu perfil!
+### Seja Bem vindo ao meu perfil!
+
+Sou Kaio, estudante e estagiário em :computer: Front-end Development.
+
+
 
 <!--
 **DSkaio/DSkaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
