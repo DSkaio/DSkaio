@@ -1,5 +1,5 @@
-<h1>Seja bem vindo:wave:</h1>
-<h2>Sou Kaio, estudante e estagiário em Front-end Development:computer:</h2>
+<h2>Seja bem vindo:wave:</h2>
+<h3>Sou Kaio, estudante e estagiário em Front-end Development:computer:</h3>
 
 
 
