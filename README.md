@@ -1,6 +1,6 @@
 ### Seja Bem vindo ao meu perfil!
 
-Sou Kaio, estudante e estagiário em :computer: Front-end Development.
+Sou Kaio, estudante e estagiário em Front-end Development:computer:
 
 
 
