@@ -1,6 +1,9 @@
 <h2>Seja bem vindo:wave:</h2>
 <h3>Sou Kaio, estudante e estagiário em Front-end Development:computer:</h3>
 
+<h2>Atualmente trabalho utilizando a Stack: </h2>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
 
 <!--
