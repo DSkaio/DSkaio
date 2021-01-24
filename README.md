@@ -1,8 +1,7 @@
 <h2>Seja bem vindo:wave:</h2>
 <h3>Sou Kaio, estudante e estagiário em Front-end Development:computer:</h3>
 
-<a href="https://www.linkedin.com/in/kaioribeiro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-"></a>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
 <p>Meu Stack: </p>
 
