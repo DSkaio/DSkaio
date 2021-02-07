@@ -1,5 +1,5 @@
 <h2>Seja bem vindo:wave:</h2>
-<h3>Sou Kaio, estudante de ADS e estagiário em Front-end Development:computer:</h3>
+<h3>Sou Kaio, estudante de ADS e Estagiário em Front-end Development:computer:</h3>
 
 <p> Aqui é o lugar onde vou guardar meus projetos pessoais. Esse perfil também tem a finalidade de servir como um portifólio.</p>
 
